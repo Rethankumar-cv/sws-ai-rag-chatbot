@@ -1,7 +1,7 @@
 # Configuration Settings
-VECTOR_STORE_PATH = "vector_store"
+FAISS_INDEX_PATH = "vector_store/faiss_index"
 
-DATA_PATH = "data/pdfs"
+PDF_DIR = "data/pdfs"
 
 CHUNK_SIZE = 500
 CHUNK_OVERLAP = 50
