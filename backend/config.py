@@ -1,5 +1,6 @@
 # Configuration Settings
 FAISS_INDEX_PATH = "vector_store/faiss_index"
+USER_MEMORY_FAISS_PATH = "vector_store/user_memories_index"
 
 PDF_DIR = "data/pdfs"
 

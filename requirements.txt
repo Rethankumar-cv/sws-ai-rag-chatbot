@@ -9,3 +9,6 @@ pymupdf
 streamlit
 python-dotenv
 requests
+sqlalchemy
+psycopg2-binary
+supabase
